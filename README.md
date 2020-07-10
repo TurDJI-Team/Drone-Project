@@ -2,5 +2,5 @@ This project provides that sensing body movements with the help of computer visi
 
 Used technologies:
 <br> ● C / C ++ </br>
-● OpenCV
-● TCP / UDP communication
+<br> ● OpenCV </br>
+<br> ● TCP / UDP communication </br>
